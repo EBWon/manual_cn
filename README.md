@@ -1,19 +1,19 @@
 # 들어가며
 
 {% hint style="info" %}
-이 공간은 **로보링크**제품의 공식 메뉴얼 사이트입니다.
+이 공간은 **로보링크**제품의 공식 메뉴얼 사이트입니다. 중국어는 번역되었습니다.
 {% endhint %}
 
-# 코드론 미니
+# CoDrone Mini
 
-![코드론 미니](./img/001.jpg)
-![코드론 미니](./img/002.jpg)
+![CoDrone Mini](./img/001.jpg)
+![CoDrone Mini](./img/002.jpg)
 
-# 코드론
+# CoDrone
 
-![코드론](./img/003.jpg)
+![CoDrone](./img/003.jpg)
 
-# 주미
+# Zumi
 
-![주미](./img/004.jpg)
+![Zumi](./img/004.jpg)
 
