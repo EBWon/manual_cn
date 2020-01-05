@@ -1,32 +1,32 @@
-＃ CoDroneMini Coderon Mini：教育编码无人机
+# CoDroneMini CoDrone Mini：教育编码无人机 
 
-！[Coderon mini]（./ img / 0001.png）
+![CoDrone mini](./img/0001.png)
 
->迷你编码，这是一种智能编码无人机，可以学习无人机和编码！
+> 迷你编码，这是一种智能编码无人机，可以学习无人机和编码！
 
-这是一款高性能无人机，从8岁到专业人士都可以享受。轻松将您的想法编码为块类型，单击键盘按钮，它们将按照无人机的想法自动飞行。 Coderon Mini旨在使无人机专家和编码专家比现有Coderon系列更容易，更安全。即使您不必从教科书开始硬编码或从昂贵的无人机开始，也可以使用Coderon Mini立即开始编码和无人机！
+这是一款高性能无人机，从8岁到专业人士都可以享受。轻松将您的想法编码为块类型，单击键盘按钮，它们将按照无人机的想法自动飞行。 CoDrone Mini旨在使无人机专家和编码专家比现有CoDrone系列更容易，更安全。即使您不必从教科书开始硬编码或从昂贵的无人机开始，也可以使用CoDrone Mini立即开始编码和无人机！
 
 编码可以使用各种开源软件完成，从基于暂存块的程序到初学者再到Python。
 
-＃ 功能
+# 功能
 
-Coderon Mini拥有无人机应有的一切。
+CoDrone Mini 拥有无人机应有的一切。
 
-！[Coderon mini]（./ img / 0002.png）
+![CoDrone mini](./img/0002.png)
 
 无人机和遥控器可进行各种控制和维护。
 
-！[Coderon mini]（./ img / 0003.png）
-  
+![CoDrone mini](./img/0003.png)
+  
 
-＃ 规格
-！[Coderon mini spec]（./ img / 0004.png）
+# 规格
+![CoDrone mini 规格](./img/0004.png)
 
 
 ## 实际配置
-！[产品配置]（./ img / 0005.png）
+![实际配置](./img/0005.png)
 
-＃ 杠杆
+# 杠杆
 
 可以通过四种方式使用Coderon Mini：远程控制，虚拟控制，PC监视控制和块程序。
 
@@ -34,65 +34,65 @@ Coderon Mini拥有无人机应有的一切。
 
 使用操纵杆的无人机飞行可以在任何地方进行控制。
 
-！[配对]（./ img / 0006.png）
+![Pairing](./img/0006.png)
 
-** **配对**：第一步是将无人机连接到遥控器。打开无人机电源并在20秒内摇动它。然后，无人机的LED将闪烁蓝色和红色，在此状态下，按遥控器上的Pairing（配对）按钮几秒钟。连接后，无人机的LED将停止并且遥控器的蜂鸣声将响起。
+* **Pairing** :  第一步是将无人机连接到遥控器。打开无人机电源并在20秒内摇动它。然后，无人机的LED将闪烁蓝色和红色，在此状态下，按遥控器上的Pairing（配对）按钮几秒钟。连接后，无人机的LED将停止并且遥控器的蜂鸣声将响起。
 
-！[重置]（./ img / 0007.png）
+![Reset](./img/0007.png)
 
-* **重置**：在平面上校准无人机。将无人机放在地板上，然后按一下遥控器上的RESET按钮，然后无人机上的LED会反应并再次停止。
+* **Reset**  : 在平面上校准无人机。将无人机放在地板上，然后按一下遥控器上的RESET按钮，然后无人机上的LED会反应并再次停止。
 
-！[开始]（./ img / 0008.png）
+![Start](./img/0008.png)
 
-* **开始**：按下右侧按钮约4秒钟，无人机将起飞并自动悬停
+* **Start** : 按下右侧按钮约4秒钟，无人机将起飞并自动悬停
 
-！[飞行]（./ img / 0009.png）
+![Flying](./img/0009.png)
 
-* **飞行**：使用左操纵杆向上/下/左/右旋转，并使用右操纵杆前进/后/左/右。
+* **Flying** : 왼쪽 조이스틱을 이용하여 상승/하강/좌회전/우회전를 , 오른쪽 조이스틱을  이용 하여 전진/후진/좌이동/우이동을 합니다.
 
-！[停止]（./ img / 0010.png）
+![Stop](./img/0010.png)
 
-** **停止**：按下右侧按钮约4秒钟，以着陆在所需的目标区域，然后缓慢下降以着陆。
+* **Stop** : 원하는 목표지역에 착륙하기 위하여 약 4초간 오른쪽 측면에 있는 버튼을 누르면 천천히 내려와 착륙합니다.
 
-> [下载无人机控制和快速手册PDF]（https://github.com/EBWon/robolink/blob/master/codronemini/pdf/remotecontroller.pdf）
+> [드론 조종법 및 퀵매뉴얼 PDF 다운로드 받기](https://github.com/EBWon/robolink/blob/master/codronemini/pdf/remotecontroller.pdf)
 
-## 无人机模拟器虚拟飞行
+## 드론시뮬레이터 가상 비행
 
-带有操纵杆的虚拟无人机飞行使您可以通过多种方式控制和练习显示器上的无人机，而无需实际飞行。
+조이스틱을 이용한 가상 드론 비행으로 드론을 실제 날리지 않아도 모니터상의 드론을 다양한 방법으로 조종하고 연습할 수 있습니다.
 
-！[连接]（./ img / 0011-1.png）
-！[连接]（./ img / 0011.jpg）
+![Connection](./img/0011-1.png)
+![Connection](./img/0011.jpg)
 
-* **连接**：用USB电缆连接PC和遥控器，运行无人机模拟器，从右上角的ConnectC按钮连接端口，然后按Training按钮进入虚拟无人机控制屏幕。
+* **Connection** : PC와 리모콘을 USB케이블로 연결하고 드론시뮬레이터를 실행하고 우측상단의 ConnectC 버튼에서 포트를 연결하고 Training버튼을 눌러 가상 드론 조종화면으로 넘어갑니다.
 
-！[虚拟飞行]（./ img / 0012.png）
+![Virtual Flight](./img/0012.png)
 
-* **虚拟飞行**：用有线遥控器控制屏幕上的无人机，就像控制真正的无人机一样。
+* **Virtual Flight** : 실제 드론을 조종하는것처럼 유선으로 연결된 리모콘을 통해 화면의 드론을 제어해보세요.
 
-> [下载Drone Simulator PDF手册]（https://github.com/EBWon/robolink/blob/master/codronemini/pdf/simulator.pdf）
+> [드론 시뮬레이터 PDF 매뉴얼 다운로드 받기](https://github.com/EBWon/robolink/blob/master/codronemini/pdf/simulator.pdf)
 
-## 无人机模拟器监控飞行
+## 드론시뮬레이터 모니터링 비행
 
-您可以通过PC监控无人机的各种传感器值和无人机状态，使用真正的键盘控制无人机，甚至可以自主飞行。
+PC를 통해서 드론의 다양한 센서값 및 드론상태를 모니터링하고 실제 키보드를 이용하여 드론을 제어하고 자율 비행까지도 손쉽게 해볼수 있습니다.
 
-！[连接]（./ img / 0013.png）
+![Connection](./img/0013.png)
 
-* **连接**：用USB电缆连接PC和遥控器，运行无人机模拟器，然后从右上角的ConnectionD按钮连接端口，以进入无人机监控屏幕。
+* **Connection** : PC와 리모콘을 USB케이블로 연결하고 드론시뮬레이터를 실행하고 우측상단의 ConnectionD 버튼에서 포트를 연결하면 드론 모니터링 화면으로 넘어갑니다.
 
-！[播放]（./ img / 0014.png）
+![Play](./img/0014.png)
 
-* **播放**：您可以监视无人机的状态，使用真实的键盘监视无人机的飞行，甚至可以使用顺序飞行程序工具监视自动飞行。
+* **Play** : 드론의 상태값을 모니터링해보고 실제 키보드로 드론을 비행해보고, 순차비행프로그램 툴을 통해 자율 비행도 해볼 수 있습니다.
 
-## 火箭砖
+## 로킷 브릭
 
-使用鼠标拖放块编码的编程，可以控制各种无人机，实验，游戏和任务。
+마우스를 활용한 드래그&드랍 블록형 코딩 프로그래밍을 이용하여 다양한  드론 제어와 실험, 게임, 미션등을 무궁무진하게 해볼 수 있습니다.
 
-！[选择]（./ img / 0015.png）
+![Selection](./img/0015.png)
 
-* **选择**：用USB电缆连接PC和遥控器，运行RokitBrick，从无人机类型中选择Coderon Mini，然后按SELECT按钮。
+* **Selection** : PC와 리모콘을 USB케이블로 연결하고 RokitBrick을 실행하고 드론종류에서 코드론 미니를 선택하고 SELECT 버튼을 누릅니다.
 
-！[连线与播放]（./ img / 0016.png）
+![Connection & Play](./img/0016.png)
 
-* **连接和播放**：点击左上方模块组中的“ Coderon Mini”选项卡，然后点击“ Connect”以直接在下面的无人机上连接端口，并将所需的模块移动到中央脚本以实时控制各种无人机。可以
+* **Connection & Play** : 좌측 상단의 블록군에서 “코드론 미니”탭을 누르고 바로 밑에 드론에 연결하기를 눌러서 포트를 연결하고 원하는 블록을  중앙 스크립트에 이동하여 다양한 드론 제어를 실시간으로 할 수 있습니다. 
 
-> [下载Rocket Brick PDF手册]（https://github.com/EBWon/robolink/blob/master/codronemini/pdf/rokit.pdf）
+> [로킷 브릭 PDF 매뉴얼 다운로드 받기](https://github.com/EBWon/robolink/blob/master/codronemini/pdf/rokit.pdf)
