@@ -28,7 +28,7 @@ CoDrone Mini 拥有无人机应有的一切。
 
 # 杠杆
 
-可以通过四种方式使用Coderon Mini：远程控制，虚拟控制，PC监视控制和块程序。
+可以通过四种方式使用CoDrone Mini：远程控制，虚拟控制，PC监视控制和块程序。
 
 ## 遥控器
 
@@ -54,7 +54,7 @@ CoDrone Mini 拥有无人机应有的一切。
 
 * **Stop** : 按下右侧按钮约4秒钟，以着陆在所需的目标区域，然后缓慢下降以着陆。
 
-> [下载无人机控制和快速手册PDF](https://github.com/EBWon/robolink/blob/master/codronemini/pdf/remotecontroller.pdf)
+> [下载无人机控制和快速手册PDF](https://github.com/EBWon/robolink/raw/master/codronemini/pdf/编程迷你无人机使用说明书.pdf)
 
 ## 无人机模拟器虚拟飞行
 
@@ -69,7 +69,7 @@ CoDrone Mini 拥有无人机应有的一切。
 
 * **Virtual Flight** : 用有线遥控器控制屏幕上的无人机，就像控制真正的无人机一样。
 
-> [下载Drone Simulator PDF手册](https://github.com/EBWon/robolink/blob/master/codronemini/pdf/simulator.pdf)
+> [下载Drone Simulator PDF手册](https://github.com/EBWon/robolink/raw/master/codronemini/pdf/simulator.pdf)
 
 ## 无人机模拟器监控飞行
 
@@ -89,10 +89,10 @@ CoDrone Mini 拥有无人机应有的一切。
 
 ![Selection](./img/0015.png)
 
-* **Selection** : 用USB电缆连接PC和遥控器，运行RokitBrick，从无人机类型中选择Coderon Mini，然后按SELECT按钮。
+* **Selection** : 用USB电缆连接PC和遥控器，运行RokitBrick，从无人机类型中选择CoDrone Mini，然后按SELECT按钮。
 
 ![Connection & Play](./img/0016.png)
 
-* **Connection & Play** : 点击左上方模块组中的“ Coderon Mini”选项卡，然后点击“ Connect”以直接在下面的无人机上连接端口，并将所需的模块移动到中央脚本以实时控制各种无人机。可以
+* **Connection & Play** : 点击左上方模块组中的“ CoDrone Mini”选项卡，然后点击“ Connect”以直接在下面的无人机上连接端口，并将所需的模块移动到中央脚本以实时控制各种无人机。可以
 
-> [下载Rocket Brick PDF手册](https://github.com/EBWon/robolink/blob/master/codronemini/pdf/rokit.pdf)
+> [下载Rocket Brick PDF手册](https://github.com/EBWon/robolink/raw/master/codronemini/pdf/rokit.pdf)
