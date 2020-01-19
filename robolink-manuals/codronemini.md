@@ -98,7 +98,5 @@ CoDrone Mini 拥有无人机应有的一切。
 
 > [下载Rocket Brick PDF手册](https://github.com/EBWon/manual_cn/raw/master/codronemini/pdf/rokit.pdf)
 
-{% file src="../.gitbook/assets/bian-cheng-mi-ni-wu-ren-ji-shi-yong-shuo-ming-shu.pdf" caption="编程迷你无人机使用说明书" %}
-
 
 
